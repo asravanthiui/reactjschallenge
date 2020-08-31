@@ -1,0 +1,37 @@
+{
+  "Players": [
+    {
+      "name": "James Smith",
+      "age": 57,
+      "locations": [
+        {
+          "country": "Canada",
+          "city": "Halifax",
+          "province": "NS"
+        }
+      ]
+    },
+    {
+      "name": "Maria Jones",
+      "age": 27,
+      "locations": [
+        {
+          "country": "Canada",
+          "city": "Dartmouth",
+          "province": "SE"
+        }
+      ]
+    },
+    {
+      "name": "Saul Brown",
+      "age": 25,
+      "locations": [
+        {
+          "country": "Canada",
+          "city": "Dartmouth",
+          "province": "NS"
+        }
+      ]
+    }
+  ]
+}
